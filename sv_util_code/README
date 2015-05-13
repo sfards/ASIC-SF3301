@@ -1,0 +1,20 @@
+*Util for SF3301 SV board
+Linux build instructions:
+Run "make" 
+
+Usage instructions:
+Run "./chiptest" to see oprions
+
+====================
+usage:
+  for test:
+    chiptest <serial port path> <btc/ltc> <chipid> <freq> [count]
+  for debug:
+    chiptest <serial port path> <write data> [wait time]
+  for detect:
+    chiptest <serial port path> <det> [wait time]
+
+====================
+
+
+
