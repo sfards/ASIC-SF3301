@@ -5,6 +5,8 @@ SF3301 is the most advanced ASIC chip to Power High-performance Bitcoin & Liteco
 
 文档列表：
 
+usb_dualminer : SF3301 USB Dual Miner Resources 双挖USB矿机设计资料
+
 SF3301_SV_Board_Hardware_Guide.doc : SF3301 验证板硬件指南
 
 SV_POWER_BOARD_CONFIGURATION.xls : SF3301 验证板电压配置表
